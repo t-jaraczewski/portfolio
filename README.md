@@ -1,3 +1,3 @@
-# Tomasz Jaraczewski -  Portfolio
+## Tomasz Jaraczewski -  Portfolio
 
 ## **About me**
