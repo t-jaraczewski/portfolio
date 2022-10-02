@@ -42,3 +42,10 @@
 + [Podstawy SQL. Ćwiczenia praktyczne](https://helion.pl/ksiazki/podstawy-sql-cwiczenia-praktyczne-arkadiusz-jakubowski,cwsql.htm#format/d)
 + [Podróż przez świat testowania](https://www.funwithbugs.com/landingpage/juz_jest_dostepna)
 + [Testowanie oprogramowania w praktyce. Studium przypadków](https://helion.pl/ksiazki/testowanie-oprogramowania-w-praktyce-studium-przypadkow-karolina-zmitrowicz-adam-roman,e_0wc1.htm#format/e)
+
+## **Sites Used for Learning Coding**
++ [w3schools.com](https://www.w3schools.com)
++ [geekon.edu.pl](https://geekon.edu.pl)
+
+## **Blogs Read**
++ [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
