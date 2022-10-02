@@ -20,3 +20,5 @@
   + creating bug reports
   + understanding the software development process
   
+## **Courses**
++ [Zostań testerem manualnym](https://jak-zostac-testerem.pl)
