@@ -22,3 +22,6 @@
   
 ## **Courses**
 + [Zostań testerem manualnym](https://jak-zostac-testerem.pl)
++ [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/28938454?start=0#overview)
++ [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697388?start=0#overview)
+
