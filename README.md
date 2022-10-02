@@ -1,7 +1,7 @@
 ### Tomasz Jaraczewski -  Portfolio
 ![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester%20(300%C3%97300%20px).png)
 
-## **About me**
+## **About Me**
 
 ## **Tech Stack**
 + Languages: 
@@ -20,7 +20,7 @@
   + creating bug reports
   + understanding the software development process
   
-## **Courses completed**
+## **Courses Completed**
 + [Wieczorowa Akademia Testowania](https://testuj.pl/course/package/attachment/6336bcfed1e28259196920.pdf)
 + [Zostań testerem manualnym](https://jak-zostac-testerem.pl)
 + [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/28938454?start=0#overview)
@@ -35,3 +35,10 @@
 + Fundamenty CSS: [Level 1](https://codenga.pl/products/fundamenty_css_level_1)
 + Fundamenty Linux Terminal: [Level 1](https://codenga.pl/products/fundamenty_terminal_linux_level_1)
 + [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
+
+## **Technical Books Read**
++ [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
++ [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/e)
++ [Podstawy SQL. Ćwiczenia praktyczne](https://helion.pl/ksiazki/podstawy-sql-cwiczenia-praktyczne-arkadiusz-jakubowski,cwsql.htm#format/d)
++ [Podróż przez świat testowania](https://www.funwithbugs.com/landingpage/juz_jest_dostepna)
++ [Testowanie oprogramowania w praktyce. Studium przypadków](https://helion.pl/ksiazki/testowanie-oprogramowania-w-praktyce-studium-przypadkow-karolina-zmitrowicz-adam-roman,e_0wc1.htm#format/e)
