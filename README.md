@@ -1,5 +1,5 @@
 ### Tomasz Jaraczewski -  Portfolio
-![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester%20(300%C3%97300%20px).png)
+![Software Tester](https://github.com/t-jaraczewski/portfolio/commit/9f24d93aae2a8c697d60732622fa1a57f2fbb530)
 
 ## **About Me**
 
