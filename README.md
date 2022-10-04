@@ -87,5 +87,9 @@
   + [Accessibility an after thought](https://www.youtube.com/watch?v=NVVJyUv9dC0) (4:10:00-4:49:34)
   + [International usability testing: How to understand your users](https://www.youtube.com/watch?v=NVVJyUv9dC0) (5:09:53-5:58:25)
   
-  
+## **YT Channels**
++ [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
++ [TT PSC - Atlassian Solution Partner](https://www.youtube.com/channel/UC3R3-Hr5-mEvH867VCFDQvA)
++ [Adam Gola](https://www.youtube.com/AdamGola)
++ [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
   
