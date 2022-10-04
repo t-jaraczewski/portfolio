@@ -57,3 +57,17 @@
 + [cherry-it.pl](http://cherry-it.pl)
 + [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
 + [blog.szkolatestowania.pl](https://blog.szkolatestowania.pl)
+
+## **Groups for Knowledge Gathering**
++ [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610)
++ [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)
++ [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
++ [Wydarzenia Sii Polska](https://www.facebook.com/groups/810220582655386)
++ [Testuj.pl - Test, Bugs & Rock'n'Roll](https://www.facebook.com/testujpl)
++ [Gildia Testerów](https://www.facebook.com/GildiaTesterow)
++ [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/509489587391848)
++ [Cherry-IT: Zostań Testerem](https://www.facebook.com/groups/2133784529983322)
++ [AkademiaTestera.pl - Grupa wsparcia w IT](https://www.facebook.com/groups/574651949645535)
++ [Praca / Staż w IT](https://www.facebook.com/groups/1778129425801951)
++ [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470)
+
