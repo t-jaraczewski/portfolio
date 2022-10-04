@@ -93,9 +93,12 @@
 + [Adam Gola](https://www.youtube.com/AdamGola)
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
   
-## **My Testing Experience - Crowdtesting**: [uTest](https://www.utest.com), [test.io](https://test.io), [we-are-testers.com](https://we-are-testers.com)
-+ identifying and reporting different kinds of issues found on websites and mobile apps
-+ reproducing issues reported by other testers
-+ executing test cases
-+ cooperating with TTLs
-+ working alone or in a team depending on the projects
+## **My Testing Experience - Crowdtesting**
++ [uTest](https://www.utest.com), [test.io](https://test.io) and [we-are-testers.com](https://we-are-testers.com)
+  + identifying and reporting different kinds of issues found on websites and mobile apps
+    + exploratory testing with or without test cases (functional & localization testing, regression tests and retests)
+    + guided testing with test cases (functional)
+  + reproducing issues reported by other testers
+  + executing test cases
+  + cooperating with TTLs
+  + working alone or in a team depending on the projects
