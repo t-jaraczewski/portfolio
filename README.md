@@ -49,3 +49,11 @@
 
 ## **Blogs Read**
 + [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
++ [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
++ [testerzy.pl](https://testerzy.pl)
++ [testerka.pl](https://testerka.pl)
++ [testelka.pl](https://testelka.pl)
++ [toniebug.pl](https://www.toniebug.pl)
++ [cherry-it.pl](http://cherry-it.pl)
++ [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
++ [blog.szkolatestowania.pl](https://blog.szkolatestowania.pl)
