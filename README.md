@@ -71,3 +71,8 @@
 + [Praca / Staż w IT](https://www.facebook.com/groups/1778129425801951)
 + [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470)
 
+## **Webibars**
++ [Agile w Jira](https://www.youtube.com/watch?v=wppJki3BRM4)
++ [Confluence - możliwości systemu](https://www.youtube.com/watch?v=Y78V3WQrAkc)
++ [O dostępności](https://www.youtube.com/watch?v=wSeIeEMh9os)
++ [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
