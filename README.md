@@ -77,8 +77,9 @@
 + [O dostępności](https://www.youtube.com/watch?v=wSeIeEMh9os)
 + [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
 
-## **Conferences & Meetups
-+ "Tydzień Programisty 2022":
-  + [Testowanie oprogramowania – od czego zacząć?](
-  + [Panel dyskusyjny Scalac: Którędy do IT?](
+## **Conferences & Meetups**
++ _"Tydzień Programisty 2022"_:
+  + [Testowanie oprogramowania – od czego zacząć?](https://drive.google.com/file/d/1_NYjW1ztXCFcTaIZLpOAxxzuct06DWyk/view?usp=sharing)
+  + [Panel dyskusyjny Scalac: Którędy do IT?](https://drive.google.com/file/d/1psI64hkMXk2hDpQi6bbf16LUrVijZpVq/view?usp=sharing)
+  
   
