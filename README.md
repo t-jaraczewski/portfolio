@@ -105,7 +105,7 @@
   + working alone or in a team depending on the projects
   
 ## **My Testing Experience - Beta testing**
-Beta testing 12 Android apps downloaded from Google Play Store
+Beta testing 12 Android apps downloaded from _Google Play Store_:
   + identifying important app issues
   + suggesting user experience improvements that are achievable before launching the product
   + sending issue reports (suggestions) to a developer: [App#1](
