@@ -35,6 +35,7 @@
 + Fundamenty CSS: [Level 1](https://codenga.pl/products/fundamenty_css_level_1)
 + Fundamenty Linux Terminal: [Level 1](https://codenga.pl/products/fundamenty_terminal_linux_level_1)
 + [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
++ [Web Accessibility Auditing](https://alison.com/course/web-accessibility-auditing)
 
 ## **Technical Books Read**
 + [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
