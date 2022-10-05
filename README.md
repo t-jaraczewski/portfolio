@@ -95,7 +95,7 @@
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
   
 ## **My Testing Experience - Crowdtesting**
-+ [uTest](https://www.utest.com), [test.io](https://test.io) and [we-are-testers.com](https://we-are-testers.com)
+[uTest](https://www.utest.com), [test.io](https://test.io) and [we-are-testers.com](https://we-are-testers.com):
   + identifying and reporting different kinds of issues found on websites and mobile apps
     + exploratory testing with or without test cases (functional & localization testing, regression tests and retests)
     + guided testing with test cases (functional)
@@ -103,3 +103,10 @@
   + executing test cases
   + cooperating with TTLs
   + working alone or in a team depending on the projects
+  
+## **My Testing Experience - Beta testing**
+Beta testing 12 Android apps downloaded from Google Play Store
+  + identifying important app issues
+  + suggesting user experience improvements that are achievable before launching the product
+  + sending issue reports (suggestions) to a developer: [App#1](
+
