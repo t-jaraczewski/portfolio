@@ -109,4 +109,10 @@ Beta testing 12 Polish- and English-language Android apps downloaded from _Googl
   + identifying important app issues
   + suggesting user experience improvements that are achievable before launching the product
   + sending issue reports (suggestions) to a developer: [App#1](
+ 
+## **My Test Case Examples**
+
+## **My Test Suite Examples**
+
+## **My Bug Report Examples**
 
