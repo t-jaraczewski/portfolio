@@ -7,7 +7,7 @@
 + Languages: 
   + SQL *(intermediate)*
   + HTML + CSS *(basics)* - examples of simple projects using HTML and CSS:
-      [Eiffel Tower](https://codepen.io/t-jaraczewski/pen/NWMLEQv)
+      [Eiffel Tower](https://codepen.io/t-jaraczewski/full/NWMLEQv)
 + Linux Command Line *(basics)*
 + Tools:
   + Chrome DevTools
