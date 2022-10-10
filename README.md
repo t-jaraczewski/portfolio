@@ -80,14 +80,14 @@
 + [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
 
 ## **Conferences & Meetups**
-+ _Tydzień Programisty 2022_:
++ **_Tydzień Programisty 2022_**:
   + [Testowanie oprogramowania – od czego zacząć?](https://drive.google.com/file/d/1_NYjW1ztXCFcTaIZLpOAxxzuct06DWyk/view?usp=sharing)
   + [Panel dyskusyjny Scalac: Którędy do IT?](https://drive.google.com/file/d/1psI64hkMXk2hDpQi6bbf16LUrVijZpVq/view?usp=sharing)
-+ _Testing Stage 2022_:
-  + [Keynote: Future of Testing](https://www.youtube.com/watch?v=nMnrY6-uttg) (0:08:12-0:53:08)
-  + [Exploratory Testing – Is it a Separate Discipline or Part of a Tester’s Mentality?](https://www.youtube.com/watch?v=NVVJyUv9dC0) (1:11:42-01-2:05:38)
-  + [Accessibility an after thought](https://www.youtube.com/watch?v=NVVJyUv9dC0) (4:10:00-4:49:34)
-  + [International usability testing: How to understand your users](https://www.youtube.com/watch?v=NVVJyUv9dC0) (5:09:53-5:58:25)
++ **_Testing Stage 2022_**:
+  + [Keynote: Future of Testing](https://www.youtube.com/watch?v=nMnrY6-uttg) _(0:08:12-0:53:08)_
+  + [Exploratory Testing – Is it a Separate Discipline or Part of a Tester’s Mentality?](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(1:11:42-01-2:05:38)_
+  + [Accessibility an after thought](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(4:10:00-4:49:34)_
+  + [International usability testing: How to understand your users](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(5:09:53-5:58:25)_
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
