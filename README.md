@@ -15,7 +15,7 @@
   + test case management: [TestRail](https://www.gurock.com/testrail), [TestLink](https://testlink.org)
   + collaborative platform: [Confluence](https://www.atlassian.com/software/confluence), [Miro](https://miro.com)
   + API platform: [Postman](https://www.postman.com)
-+ Agile (Scrum)
++ Agile (Kanban, Scrum)
 + Testing Skills:
   + creating and executing test suites and test cases
   + creating bug reports
