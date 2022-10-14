@@ -117,3 +117,5 @@ Beta testing 12 Polish- and English-language Android apps downloaded from _Googl
 
 ## **My Bug Report Examples**
 
+## **My Projects**
+
