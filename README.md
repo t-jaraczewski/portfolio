@@ -123,4 +123,7 @@ Beta testing 12 Polish- and English-language Android apps downloaded from _Googl
     + [test scenarios](
     + [bug reports](
     + [test reports](
+  + Testing _"Filmweb"_ site - accessibility tests:
+    + [test reports](
+
 
