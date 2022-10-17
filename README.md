@@ -15,6 +15,7 @@
   + test case management: [TestRail](https://www.gurock.com/testrail), [TestLink](https://testlink.org), [qTest](https://sourceforge.net/projects/qtest)
   + collaborative platform: [Confluence](https://www.atlassian.com/software/confluence), [Miro](https://miro.com)
   + API platform: [Postman](https://www.postman.com)
+  + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/)
 + Agile (Kanban, Scrum)
 + Testing Skills:
   + creating and executing test suites and test cases
