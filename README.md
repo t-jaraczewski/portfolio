@@ -89,6 +89,8 @@
   + [Exploratory Testing – Is it a Separate Discipline or Part of a Tester’s Mentality?](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(1:11:42-01-2:05:38)_
   + [Accessibility an after thought](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(4:10:00-4:49:34)_
   + [International usability testing: How to understand your users](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(5:09:53-5:58:25)_
++ **_QA Global Summit 22.2_**:
+  + [How to start testing for web accessibility?](
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
