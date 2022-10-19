@@ -6,7 +6,7 @@
 ## **Tech Stack**
 + Languages: 
   + SQL *(intermediate)*
-  + HTML + CSS *(basics)* - examples of simple projects using HTML and CSS:
+  + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS:
       [1](https://codepen.io/t-jaraczewski/full/NWMLEQv), [2](https://codepen.io/t-jaraczewski/full/poVxxqv), [3](https://codepen.io/t-jaraczewski/full/yLjRwmP)
 + Linux Command Line *(basics)*
 + Tools:
