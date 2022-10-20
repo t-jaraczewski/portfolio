@@ -91,6 +91,7 @@
   + [International usability testing: How to understand your users](https://www.youtube.com/watch?v=NVVJyUv9dC0) _(5:09:53-5:58:25)_
 + **_QA Global Summit 22.2_**:
   + [How to start testing for web accessibility?](https://www.youtube.com/watch?v=AbfZrBa0qKM) _(0:45:15-1:17:00)_
+  +[Think You’re Ready for Automation?](https://www.youtube.com/watch?v=AbfZrBa0qKM) _(10:22:21-10:50:04)_
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
