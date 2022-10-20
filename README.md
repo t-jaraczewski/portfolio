@@ -100,9 +100,7 @@
   
 ## **My Testing Experience - Crowdtesting**
 [uTest](https://www.utest.com), [test.io](https://test.io) and [we-are-testers.com](https://we-are-testers.com):
-  + identifying and reporting different kinds of issues found on websites and mobile apps
-    + exploratory testing with or without test cases (functional & localization testing, regression tests and retests)
-    + guided testing with test cases (functional)
+  + identifying and reporting different kinds of issues found on websites and mobile apps: exploratory testing with or without test cases (functional & localization testing, regression tests and retests)
   + reproducing issues reported by other testers
   + executing test cases
   + cooperating with TTLs
