@@ -18,6 +18,7 @@
   + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/)
 + Agile (Kanban, Scrum)
 + Testing Skills:
+  + verification of how applications and websites work by performing functional and exploratory tests
   + creating and executing test suites and test cases
   + creating bug reports
   + understanding the software development process
