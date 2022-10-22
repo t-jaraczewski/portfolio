@@ -100,6 +100,7 @@
 + [TT PSC - Atlassian Solution Partner](https://www.youtube.com/channel/UC3R3-Hr5-mEvH867VCFDQvA)
 + [Adam Gola](https://www.youtube.com/AdamGola)
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
++ [SDET- QA Automation](https://www.youtube.com/c/pavanoltraining)
   
 ## **My Testing Experience - Crowdtesting**
 [uTest](https://www.utest.com), [test.io](https://test.io) and [we-are-testers.com](https://we-are-testers.com):
