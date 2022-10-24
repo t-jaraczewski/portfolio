@@ -123,6 +123,7 @@ Beta testing 12 Polish- and English-language Android apps downloaded from _Googl
 
 ## **My Bug Report Examples**
 + [Bug#1](https://drive.google.com/file/d/1z_IBI4DoXkng7KP_WgBC65tuschwu7k8/view?usp=sharing)(ENG)
++ [Bug#2](https://drive.google.com/file/d/1-SS4Tqzml_M1wS-hDitXQ9UK49b6Cgbu/view)(ENG)
 
 ## **My Test Report Examples**
 
