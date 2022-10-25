@@ -81,7 +81,7 @@
 + [Confluence - możliwości systemu](https://www.youtube.com/watch?v=Y78V3WQrAkc)
 + [O dostępności](https://www.youtube.com/watch?v=wSeIeEMh9os)
 + [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
-+ [Porozmawiajmy o DevToolsach](
++ [Porozmawiajmy o DevToolsach](https://drive.google.com/file/d/1u3dzr4W-ITPWoNS9s8Tk-usqL7vrFNBV/view?usp=sharing)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
