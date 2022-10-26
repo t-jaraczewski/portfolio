@@ -119,6 +119,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
  
 ## **My Test Case Examples**
 + [TC#1](https://drive.google.com/file/d/16zX-A1LRxPMEJ2DYWjLebgwERZ0hSUW7/view?usp=sharing)(PL)
++ [TC#2]
 
 ## **My Test Suite Examples**
 + [Suite#1](https://docs.google.com/spreadsheets/d/1ztlDSBkxHdE4AgtzXcCTJY1MgaD7lU8C/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(PL)
