@@ -121,6 +121,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 + [TC#1](https://drive.google.com/file/d/16zX-A1LRxPMEJ2DYWjLebgwERZ0hSUW7/view?usp=sharing)(PL)
 + [TC#2](https://drive.google.com/file/d/1-sqzer0simQojeGm2ekGfuoZNeByT1P6/view?usp=sharing)(ENG)
 + [TC#3](https://docs.google.com/spreadsheets/d/1AiYY2xWcyO0o6zJQweZomtCPVDIUiyf7/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(przypadki testowe z zastosowaniem techniki podziału na klasy równoważności)
++ [TC#4]
 
 ## **My Test Suite Examples**
 + [Suite#1](https://docs.google.com/spreadsheets/d/1ztlDSBkxHdE4AgtzXcCTJY1MgaD7lU8C/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(PL)
