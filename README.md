@@ -116,7 +116,7 @@
 Beta testing 12 Polish-language and English-language Android apps downloaded from _Google Play Store_ (e.g. applications for recording your mood in everyday life, tracking activities for self-improvement, storm tracking, doing tests and tasks for final exams, checking the weather forecast, tracking your expenses, etc.):
   + identifying important app issues
   + suggesting user experience improvements that are achievable before launching the product
-  + sending issue reports (suggestions) to developers: [App#1](https://drive.google.com/file/d/1zzCccqvDV6Zj102AATYu1hmitOjVCaag/view?usp=sharing), [App#2](https://drive.google.com/file/d/1NPrKGPStWgIdBCt4CsL8wqK5haEggrYk/view?usp=sharing)
+  + sending issue reports (suggestions) to developers: [App#1](https://drive.google.com/file/d/1zzCccqvDV6Zj102AATYu1hmitOjVCaag/view?usp=sharing), [App#2](https://drive.google.com/file/d/1NPrKGPStWgIdBCt4CsL8wqK5haEggrYk/view?usp=sharing), 
  
 ## **My Test Case Examples**
 + [TC#1](https://drive.google.com/file/d/16zX-A1LRxPMEJ2DYWjLebgwERZ0hSUW7/view?usp=sharing)(PL)
