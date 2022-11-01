@@ -7,7 +7,7 @@
 + Languages: 
   + SQL *(intermediate)*
   + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS:
-      [Project#1](https://codepen.io/t-jaraczewski/full/NWMLEQv), [2](https://codepen.io/t-jaraczewski/full/poVxxqv), [3](https://codepen.io/t-jaraczewski/full/yLjRwmP)
+      [Project#1](https://codepen.io/t-jaraczewski/full/NWMLEQv), [Project#2](https://codepen.io/t-jaraczewski/full/poVxxqv), [3](https://codepen.io/t-jaraczewski/full/yLjRwmP)
 + Linux Command Line *(basics)*
 + Tools:
   + Chrome DevTools
