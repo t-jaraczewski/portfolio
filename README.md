@@ -62,7 +62,7 @@
 + [cherry-it.pl](http://cherry-it.pl)
 + [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
 + [blog.szkolatestowania.pl](https://blog.szkolatestowania.pl)
-+ [testerembyc.pl](
++ [testerembyc.pl](https://testerembyc.pl)
 
 ## **Groups for Knowledge Gathering**
 + [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610)
