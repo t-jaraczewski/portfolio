@@ -127,7 +127,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 
 ## **My Test Suite Examples**
 + [TS#1](https://docs.google.com/spreadsheets/d/1ztlDSBkxHdE4AgtzXcCTJY1MgaD7lU8C/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(PL)
-+ [Suite#2](https://docs.google.com/spreadsheets/d/10P6AMZQQ2-MNsxMxV_O1sbbusODowkF-/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(ENG)
++ [TS#2](https://docs.google.com/spreadsheets/d/10P6AMZQQ2-MNsxMxV_O1sbbusODowkF-/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(ENG)
 
 ## **My Bug Report Examples**
 + [Bug#1](https://drive.google.com/file/d/1z_IBI4DoXkng7KP_WgBC65tuschwu7k8/view?usp=sharing)(ENG)
