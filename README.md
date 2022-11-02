@@ -126,7 +126,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 + [TC#4](https://docs.google.com/spreadsheets/d/1HE-sb5FZFBQYBLoyHqKzTbkSebFDniZq/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(test cases based on the boundary value analysis technique)
 
 ## **My Test Suite Examples**
-+ [Suite#1](https://docs.google.com/spreadsheets/d/1ztlDSBkxHdE4AgtzXcCTJY1MgaD7lU8C/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(PL)
++ [TS#1](https://docs.google.com/spreadsheets/d/1ztlDSBkxHdE4AgtzXcCTJY1MgaD7lU8C/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(PL)
 + [Suite#2](https://docs.google.com/spreadsheets/d/10P6AMZQQ2-MNsxMxV_O1sbbusODowkF-/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(ENG)
 
 ## **My Bug Report Examples**
