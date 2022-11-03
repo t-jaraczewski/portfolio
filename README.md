@@ -84,6 +84,7 @@
 + [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
 + [Porozmawiajmy o DevToolsach](https://drive.google.com/file/d/1u3dzr4W-ITPWoNS9s8Tk-usqL7vrFNBV/view?usp=sharing)
 + [Lekcja testowania na żywo](https://drive.google.com/file/d/1WR-Hwd_kackkBm9OXSlO2mexov5mhZj0/view?usp=sharing)
++ 
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
