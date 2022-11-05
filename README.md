@@ -39,7 +39,7 @@
 + Fundamenty Linux Terminal: [Level 1](https://codenga.pl/products/fundamenty_terminal_linux_level_1)
 + [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 + [Web Accessibility Auditing](https://alison.com/course/web-accessibility-auditing)
-+ [Certified Accessibility Testing Professional](https://drive.google.com/file/d/14KIcjxowRBsarIa-ZUg-b8OdfZKgxXq6/view?usp=sharing)
++ [API Testing Foundations](https://www.linkedin.com/learning/api-testing-foundations/using-mocks-stubs-and-fakes-in-api-testing?autoplay=true)
 
 ## **Technical Books Read**
 + [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
