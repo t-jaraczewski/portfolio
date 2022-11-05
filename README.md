@@ -84,7 +84,7 @@
 + [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
 + [Porozmawiajmy o DevToolsach](https://drive.google.com/file/d/1u3dzr4W-ITPWoNS9s8Tk-usqL7vrFNBV/view?usp=sharing)
 + [Lekcja testowania na żywo](https://drive.google.com/file/d/1WR-Hwd_kackkBm9OXSlO2mexov5mhZj0/view?usp=sharing)
-+ [2022 State of Software Quality | Testing](
++ [2022 State of Software Quality | Testing](https://smartbear.wistia.com/medias/dp181aqmyk?mkt_tok=ODAwLVRJVi03ODIAAAGH4ovPqmv5xyj4slhBIKZ1P5-w6qevgfj6QSArETRa5NIzoVFv3_zeBuSol9yEfb96fwzkQk3OR32FeCt4zEGIANYvV4Yqq2DzSEsqdhxI4yE38J0m)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
