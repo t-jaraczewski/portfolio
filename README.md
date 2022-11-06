@@ -117,6 +117,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Adam Gola](https://www.youtube.com/AdamGola)
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
 + [SDET- QA Automation](https://www.youtube.com/c/pavanoltraining)
++ [TestITka](
   
 ## **My Testing Experience - Crowdtesting**
 [uTest](https://www.utest.com), [test.io](https://test.io) and [we-are-testers.com](https://we-are-testers.com):
