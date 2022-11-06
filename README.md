@@ -75,6 +75,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
 + [blog.szkolatestowania.pl](https://blog.szkolatestowania.pl)
 + [testerembyc.pl](https://testerembyc.pl)
++ [podcasttestowanie.pl](
 
 ## **Groups for Knowledge Gathering**
 + [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610)
