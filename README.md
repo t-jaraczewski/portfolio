@@ -8,7 +8,7 @@ During my time at testing on crowd-testing portals, I have participated in over 
 
 I believe that my attention to detail, accuracy, ease in carrying out tasks & focusing on the goal, and my previous non-commercial experience in testing, all these features are a solid basis for working as a full-time manual tester.
 
-My career goals:
+**My career goals:**
 - mastering manual software testing;
 - oriented for further development as an Automation Tester;
 - deepening my knowledge and skills in accessibility & usability & API testing;
