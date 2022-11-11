@@ -45,6 +45,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/learn/lecture/8530468?start=0#overview)
 + [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/learn/lecture/29785690?start=0#overview)
 + [Podstawowe szkolenie online z UX/UI](https://www.udemy.com/course/podstawowe-szkolenie-uxui/learn/lecture/26880902?start=15#overview)
++ [UX Foundations: Usability Testing](
 + Fundamenty SQL: [Level 1](https://codenga.pl/products/fundamenty_sql_level_1) [Level 2](https://codenga.pl/products/fundamenty_sql_level_2) [Level 3](https://codenga.pl/products/fundamenty_sql_level_3)
 + Fundamenty HTML: [Level 1](https://codenga.pl/products/fundamenty_html_level_1)
 + Fundamenty CSS: [Level 1](https://codenga.pl/products/fundamenty_css_level_1)
