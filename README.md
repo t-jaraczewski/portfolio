@@ -23,7 +23,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + Linux Command Line *(basics)*
 + Tools:
   + Chrome DevTools
-  + bug tracking: [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl), [Mantis](https://www.mantisbt.org)
+  + bug tracking: [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl)
   + test case management: [TestRail](https://www.gurock.com/testrail), [TestLink](https://testlink.org), [qTest](https://sourceforge.net/projects/qtest)
   + collaborative platform: [Confluence](https://www.atlassian.com/software/confluence), [Miro](https://miro.com), [Figma](https://www.figma.com)
   + API platform: [Postman](https://www.postman.com)
