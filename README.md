@@ -123,7 +123,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [TestITka](https://www.youtube.com/c/TestITka)
   
 ## **My Testing Experience - Crowdtesting**
-[uTest](https://drive.google.com/file/d/19UsX9bQSIpMGHsxF24A9f4b8g6J0wLVc/view?usp=sharing), [test.io](https://test.io) and [we-are-testers.com(https://drive.google.com/file/d/1OKLjlQyfsuA6gy4edDYKFZH4oAEcGCd2/view?usp=sharing):
+[uTest](https://drive.google.com/file/d/19UsX9bQSIpMGHsxF24A9f4b8g6J0wLVc/view?usp=sharing), [test.io](https://test.io) and [we-are-testers.com](https://drive.google.com/file/d/1OKLjlQyfsuA6gy4edDYKFZH4oAEcGCd2/view?usp=sharing):
   + identifying and reporting different kinds of issues found on websites and mobile apps: exploratory testing with or without test cases (functional & localization testing, regression tests and retests)
   + reproducing issues reported by other testers
   + executing test cases
