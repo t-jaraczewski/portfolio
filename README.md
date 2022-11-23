@@ -26,6 +26,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
   + test case management: [TestRail](https://www.gurock.com/testrail), [TestLink](https://testlink.org), [qTest](https://sourceforge.net/projects/qtest)
   + collaborative platform: [Confluence](https://www.atlassian.com/software/confluence), [Miro](https://miro.com), [Figma](https://www.figma.com)
   + API platform: [Postman](https://www.postman.com)
+  + version control tools: [Git](https://git-scm.com)
   + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/), [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
 + Agile (Kanban, Scrum)
 + Testing Skills:
