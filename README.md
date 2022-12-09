@@ -49,6 +49,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + Fundamenty SQL: [Level 1](https://codenga.pl/products/fundamenty_sql_level_1) [Level 2](https://codenga.pl/products/fundamenty_sql_level_2) [Level 3](https://codenga.pl/products/fundamenty_sql_level_3)
 + Fundamenty HTML: [Level 1](https://codenga.pl/products/fundamenty_html_level_1)
 + Fundamenty CSS: [Level 1](https://codenga.pl/products/fundamenty_css_level_1)
++ [Testowanie aplikacji mobilnych na platformę Android](https://helion.pl/ksiazki/testowanie-aplikacji-mobilnych-na-platforme-android-kurs-video-poziom-pierwszy-testy-jednostkowe-michal-szczepanik,vtesaa.htm#format/w)
 + [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 + [Web Accessibility Auditing](https://alison.com/course/web-accessibility-auditing)
 + [API Testing Foundations](https://www.linkedin.com/learning/api-testing-foundations/using-mocks-stubs-and-fakes-in-api-testing?autoplay=true)
