@@ -36,7 +36,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
   + understanding the software development process
   
 ## **Courses Completed**
-+ [Wieczorowa Akademia Testowania](https://testuj.pl/course/package/attachment/6336bcfed1e28259196920.pdf)
++ [Wieczorowa Akademia Testowania](https://drive.google.com/file/d/1axhDZ9hc4Ck8y2bnUsI201GnSMUi3naN/view?usp=sharing)
 + [Zostań testerem manualnym](https://jak-zostac-testerem.pl)
 + [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/28938454?start=0#overview)
 + [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697388?start=0#overview)
