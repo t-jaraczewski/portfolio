@@ -39,7 +39,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Wieczorowa Akademia Testowania](https://drive.google.com/file/d/1axhDZ9hc4Ck8y2bnUsI201GnSMUi3naN/view?usp=sharing)
 + [Zostań testerem manualnym](https://jak-zostac-testerem.pl)
 + [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
-+ [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/learn/lecture/18697388?start=0#overview)
++ [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania)
 + [DevTools](https://szkoleniedlaqa.pl/konsola)
 + [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/learn/lecture/30197610?start=0#overview)
 + [Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/learn/lecture/8530468?start=0#overview)
