@@ -103,6 +103,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [TOP Testowanie Mobilków](https://www.youtube.com/watch?v=0x1dfs2athA&t=915s)
 + [Jak skutecznie testować aplikacje mobilne](https://www.youtube.com/watch?v=LyQeHv14Cyg)
 + [O Quality Assurance biznesowo](https://www.youtube.com/watch?v=WLpDECJLZ10)
++ [Jak nauczyć się automatyzować i nie zwariować?](https://www.4testers.pl)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
