@@ -43,7 +43,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [DevTools](https://szkoleniedlaqa.pl/konsola)
 + [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api)
 + [Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja)
-+ [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/learn/lecture/29785690?start=0#overview)
++ [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami)
 + [Podstawowe szkolenie online z UX/UI](https://www.udemy.com/course/podstawowe-szkolenie-uxui/learn/lecture/26880902?start=15#overview)
 + [UX Foundations: Usability Testing](https://www.linkedin.com/learning/ux-foundations-usability-testing/asking-the-right-questions-14974228?autoplay=true)
 + Fundamenty SQL: [Level 1](https://codenga.pl/products/fundamenty_sql_level_1) [Level 2](https://codenga.pl/products/fundamenty_sql_level_2) [Level 3](https://codenga.pl/products/fundamenty_sql_level_3)
