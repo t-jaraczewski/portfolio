@@ -96,7 +96,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Agile w Jira](https://www.youtube.com/watch?v=wppJki3BRM4)
 + [Confluence - możliwości systemu](https://www.youtube.com/watch?v=Y78V3WQrAkc)
 + [O dostępności](https://www.youtube.com/watch?v=wSeIeEMh9os)
-+ [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl/d78dsk98)
++ [Co zrobić inaczej? Jak drastycznie przyspieszyć swój rozwój jako tester?](https://www.4testers.pl)
 + [Porozmawiajmy o DevToolsach](https://drive.google.com/file/d/1u3dzr4W-ITPWoNS9s8Tk-usqL7vrFNBV/view?usp=sharing)
 + [Lekcja testowania na żywo](https://drive.google.com/file/d/1WR-Hwd_kackkBm9OXSlO2mexov5mhZj0/view?usp=sharing)
 + [2022 State of Software Quality | Testing](https://smartbear.wistia.com/medias/dp181aqmyk?mkt_tok=ODAwLVRJVi03ODIAAAGH4ovPqmv5xyj4slhBIKZ1P5-w6qevgfj6QSArETRa5NIzoVFv3_zeBuSol9yEfb96fwzkQk3OR32FeCt4zEGIANYvV4Yqq2DzSEsqdhxI4yE38J0m)
