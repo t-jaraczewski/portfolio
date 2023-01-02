@@ -155,6 +155,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 + [Bug#2](https://drive.google.com/file/d/1-SS4Tqzml_M1wS-hDitXQ9UK49b6Cgbu/view)(ENG)
 + [Bug#3](https://drive.google.com/file/d/1c7A2psreEhuU8Z_AddgONxoCKUp12Qwt/view?usp=sharing)(PL)
 + [Bug#4](https://drive.google.com/file/d/1biidEA9lpnKb4xOh_Ril374w_uErlGct/view?usp=sharing)(PL)
++ [Bug#5](https://drive.google.com/file/d/1XRVKZR14RtLdnzOJhK2voN-4HKOUJGEW/view?usp=sharing)(FR)
 
 ## **My Test Report Examples**
 + [TR#1](https://drive.google.com/file/d/1HQ2zZ1KiESHwbH9mhuOE5y-C1S_zfxmO/view?usp=sharing) (test report for stakeholders)
