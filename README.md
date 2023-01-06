@@ -22,7 +22,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
       [Project#1](https://codepen.io/t-jaraczewski/full/NWMLEQv), [Project#2](https://codepen.io/t-jaraczewski/full/poVxxqv), [Project#3](https://codepen.io/t-jaraczewski/full/yLjRwmP)
 + Tools:
   + Chrome DevTools
-  + bug tracking: [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl), [Mantis](https://www.mantisbt.org)
+  + bug tracking: [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl), [Mantis](https://www.mantisbt.org), [Zoho](https://www.zoho.com/bugtracker/login.html)
   + test case management: [TestRail](https://www.gurock.com/testrail), [TestLink](https://testlink.org), [qTest](https://sourceforge.net/projects/qtest)
   + collaborative platform: [Confluence](https://www.atlassian.com/software/confluence), [Miro](https://miro.com), [Figma](https://www.figma.com)
   + API platform: [Postman](https://www.postman.com)
