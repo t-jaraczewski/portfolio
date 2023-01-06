@@ -31,7 +31,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + Agile (Kanban, Scrum)
 + Testing Skills:
   + verification of how applications and websites work by performing functional and exploratory tests
-  + creating and executing test suites and test cases
+  + creating and executing test scenarios, test suites and test cases
   + creating bug reports
   + understanding the software development process
   
