@@ -160,4 +160,4 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 ## **My Test Report Examples**
 + [TR#1](https://drive.google.com/file/d/1HQ2zZ1KiESHwbH9mhuOE5y-C1S_zfxmO/view?usp=sharing) (test report for stakeholders)
 + [TR#2](https://drive.google.com/file/d/1kMCZ3DFYUt5tTb0MF-zxL1I5fEUXXjME/view?usp=sharing) (test report for management)
-+ [TR#3](https://drive.google.com/file/d/1igQnApGDUgYpgD7kIFDb9lbUV64UW6Bk/view?usp=sharing)
++ [TR#3](https://drive.google.com/file/d/1igQnApGDUgYpgD7kIFDb9lbUV64UW6Bk/view?usp=sharing) (exploratory testing session report - accessibility tests)
