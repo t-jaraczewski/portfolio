@@ -17,7 +17,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 
 ## **Tech Stack**
 + Languages: 
-  + SQL *(intermediate)*
+  + SQL *(basics)*
   + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS:
       [Project#1](https://codepen.io/t-jaraczewski/full/NWMLEQv), [Project#2](https://codepen.io/t-jaraczewski/full/poVxxqv), [Project#3](https://codepen.io/t-jaraczewski/full/yLjRwmP)
 + Tools:
