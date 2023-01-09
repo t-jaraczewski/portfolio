@@ -127,7 +127,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [SDET- QA Automation](https://www.youtube.com/c/pavanoltraining)
 + [TestITka](https://www.youtube.com/c/TestITka)
 
-## **My Testing Experience - Internship at TestArmy Group S.A.**
+## **My Testing Experience - _Internship at TestArmy Group S.A._**
   
 ## **My Testing Experience - Crowdtesting**
 [uTest](https://drive.google.com/file/d/19UsX9bQSIpMGHsxF24A9f4b8g6J0wLVc/view?usp=sharing), [test.io](https://drive.google.com/file/d/13Q897q5iR69dIsqVzCkgx5GKfP99eL_A/view?usp=sharing) and [we-are-testers.com](https://drive.google.com/file/d/1OKLjlQyfsuA6gy4edDYKFZH4oAEcGCd2/view?usp=sharing):
