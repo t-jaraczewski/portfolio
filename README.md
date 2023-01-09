@@ -128,6 +128,15 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [TestITka](https://www.youtube.com/c/TestITka)
 
 ## **My Testing Experience - Internship at _TestArmy Group S.A._**
++ identifying and reporting different kinds of issues found on websites and mobile apps by performing manual exploratory and functional testing;
++ analysis of functional and non-functional bugs in order to indicate possible mistakes made during software tests;
++ test planning and creating test plans;
++ creating test cases based on specifications;
++ adding test cases to a test case management tool (TestLink);
++ reporting issues in a bug tracking tool (Mantis);
++ preparing reports on completed test sessions;
++ analysis of business and system requirements;
+
   
 ## **My Testing Experience - Crowdtesting**
 [uTest](https://drive.google.com/file/d/19UsX9bQSIpMGHsxF24A9f4b8g6J0wLVc/view?usp=sharing), [test.io](https://drive.google.com/file/d/13Q897q5iR69dIsqVzCkgx5GKfP99eL_A/view?usp=sharing) and [we-are-testers.com](https://drive.google.com/file/d/1OKLjlQyfsuA6gy4edDYKFZH4oAEcGCd2/view?usp=sharing):
