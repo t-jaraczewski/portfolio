@@ -29,7 +29,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
   + API platform: [Postman](https://www.postman.com)
   + version control system: [Git](https://git-scm.com)
   + code editor: [Visual Studio Code](https://code.visualstudio.com), [Brakcets](https://brackets.io)
-  + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/), [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid), [Selenium IDE](https://www.selenium.dev/selenium-ide)
+  + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/), [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid), [Selenium IDE](https://www.selenium.dev/selenium-ide), [Browserstack](https://www.browserstack.com)
 + Agile (Kanban, Scrum)
 + Testing Skills:
   + verification of how applications and websites work by performing functional and exploratory tests
