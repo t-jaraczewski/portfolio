@@ -34,6 +34,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + Testing Skills:
   + verification of how applications and websites work by performing functional and exploratory tests
   + creating and executing test scenarios, test suites and test cases
+  + creating test reports
   + creating bug reports
   + understanding the software development process
   
