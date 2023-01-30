@@ -136,6 +136,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + creating test cases based on specifications;
 + adding test cases to a test case management tool (TestLink);
 + reporting issues in a bug tracking tool (Mantis);
++ API testing (Postman);
 + preparing reports on completed test sessions;
 + analysis of business and system requirements;
 
