@@ -128,6 +128,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
 + [SDET- QA Automation](https://www.youtube.com/c/pavanoltraining)
 + [TestITka](https://www.youtube.com/c/TestITka)
++ [ITea Morning - Maciej Wyrodek](https://www.youtube.com/@ITeaMorning)
 
 ## **My Testing Experience - Internship at _TestArmy Group S.A._**
 + identifying and reporting different kinds of issues found on websites and mobile apps by performing manual exploratory and functional testing;
