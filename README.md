@@ -132,6 +132,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [TestITka](https://www.youtube.com/c/TestITka)
 + [ITea Morning - Maciej Wyrodek](https://www.youtube.com/@ITeaMorning)
 + [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/@TestowaniePodcast)
++ [Ola Kunysz](https://www.youtube.com/c/OlaKunysz)
 
 ## **My Testing Experience - Internship at _TestArmy Group S.A._**
 + identifying and reporting different kinds of issues found on websites and mobile apps by performing manual exploratory and functional testing;
