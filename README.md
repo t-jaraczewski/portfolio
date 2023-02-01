@@ -81,6 +81,8 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [testerembyc.pl](https://testerembyc.pl)
 + [podcasttestowanie.pl](https://podcasttestowanie.pl)
 + [nauczycielwit.pl](http://www.nauczycielwit.pl)
++ [Ola Kunysz](https://olaqnysz.blogspot.com)
++ [Szkoła Testów](https://szkolatestow.online)
 
 ## **Groups for Knowledge Gathering**
 + [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610)
