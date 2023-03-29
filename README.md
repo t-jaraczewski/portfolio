@@ -1,5 +1,5 @@
 ## Tomasz Jaraczewski -  Portfolio
-![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester.png)
+![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester_TomaszJaraczewski.png)
 
 ## **About Me**
 I have worked as an English & French teacher for most of my professional career. Thanks to my tech & soft skills and my knowledge of English, I have recently started the process of re-skilling myself.
