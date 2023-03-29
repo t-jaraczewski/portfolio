@@ -21,6 +21,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
   + SQL *(basics)*
   + HTML/CSS *(basics)* - examples of simple projects using HTML and CSS:
       [Project#1](https://codepen.io/t-jaraczewski/full/NWMLEQv), [Project#2](https://codepen.io/t-jaraczewski/full/poVxxqv), [Project#3](https://codepen.io/t-jaraczewski/full/yLjRwmP)
+  + PYTHON *(basics)*
 + Tools:
   + Chrome DevTools
   + bug tracking: [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl), [Mantis](https://www.mantisbt.org), [Zoho](https://www.zoho.com/bugtracker/login.html)
@@ -29,7 +30,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
   + API platform: [Postman](https://www.postman.com)
   + version control system: [Git](https://git-scm.com)
   + code editor: [Visual Studio Code](https://code.visualstudio.com), [Brackets](https://brackets.io)
-  + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/), [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid), [Selenium IDE](https://www.selenium.dev/selenium-ide), [Browserstack](https://www.browserstack.com)
+  + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/), [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid), [Selenium IDE](https://www.selenium.dev/selenium-ide), [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver), [Browserstack](https://www.browserstack.com)
 + Agile (Kanban, Scrum)
 + Testing Skills:
   + verification of how applications and websites work by performing functional and exploratory tests
