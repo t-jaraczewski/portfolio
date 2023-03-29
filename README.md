@@ -4,7 +4,7 @@
 ## **About Me**
 I have worked as an English & French teacher for most of my professional career. Thanks to my tech & soft skills and my knowledge of English, I have recently started the process of re-skilling myself.
 
-During my time at testing on crowd-testing portals, I have participated in over 200 test cycles, reported over 350 bugs, reproduced over 900 issues and submitted 100 test cases (as of 29th March 2023).
+During my internship and my time at testing on crowd-testing portals, I have participated in over 200 test cycles, reported over 350 bugs, reproduced over 900 issues and submitted 100 test cases (as of 29th March 2023).
 
 I believe that my attention to detail, accuracy, ease in carrying out tasks & focusing on the goal, and my previous non-commercial experience in testing, all these features are a solid basis for working as a full-time manual tester.
 
