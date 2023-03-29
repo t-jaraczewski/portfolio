@@ -13,8 +13,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 - oriented for further development as an Automation Tester;
 - mastering mobile & API testing;
 - deepening my knowledge and skills in accessibility & usability testing;
-- mastering HTML & CSS;
-- learning Python;
+- mastering HTML & CSS & Python;
 
 ## **Tech Stack**
 + Languages: 
