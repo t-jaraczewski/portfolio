@@ -111,6 +111,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Jak skutecznie testować aplikacje mobilne](https://www.youtube.com/watch?v=LyQeHv14Cyg)
 + [O Quality Assurance biznesowo](https://www.youtube.com/watch?v=WLpDECJLZ10)
 + [Jak nauczyć się automatyzować i nie zwariować?](https://www.4testers.pl)
++ [Audyt dostępności cyfrowej - kto i w jaki sposób powinien go sporządzać?](https://www.linkedin.com/events/audytdost-pno-cicyfrowej-ktoiwj7042041389227921408/comments)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
