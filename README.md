@@ -113,6 +113,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Jak nauczyć się automatyzować i nie zwariować?](https://www.4testers.pl)
 + [Audyt dostępności cyfrowej - kto i w jaki sposób powinien go sporządzać?](https://www.linkedin.com/events/audytdost-pno-cicyfrowej-ktoiwj7042041389227921408/comments)
 + [ChatGPT dla testerów oprogramowania. Tester 2.0](https://www.youtube.com/watch?v=JKRocl4DFJw)
++ [Czy tester jest mądrzejszy niż ChatGPT?](https://www.youtube.com/watch?app=desktop&v=7Lq9sDUC3J0&feature=youtu.be)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
