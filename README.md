@@ -114,6 +114,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Audyt dostępności cyfrowej - kto i w jaki sposób powinien go sporządzać?](https://www.linkedin.com/events/audytdost-pno-cicyfrowej-ktoiwj7042041389227921408/comments)
 + [Testy na frontendzie - błędy, wpadki, złe praktyki](https://www.youtube.com/watch?v=gmlCCcZimGw)
 + [Testowanie Oprogramowania - Testowanie Backendu](https://www.youtube.com/watch?v=Bj49UjLsWno)
++ [Jak przeprowadzić testy użyteczności?](https://www.youtube.com/watch?v=pOV26RU8lqg&list=PL-63n4xx1Ooe8WLrP3Ae2S-tMK5_8L-b_&index=18)
 + [ChatGPT dla testerów oprogramowania. Tester 2.0](https://www.youtube.com/watch?v=JKRocl4DFJw)
 + [Czy tester jest mądrzejszy niż ChatGPT?](https://www.youtube.com/watch?app=desktop&v=7Lq9sDUC3J0&feature=youtu.be)
 
