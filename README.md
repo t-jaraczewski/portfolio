@@ -65,6 +65,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Podróż przez świat testowania](https://www.funwithbugs.com/landingpage/juz_jest_dostepna)
 + [Testowanie oprogramowania w praktyce. Studium przypadków](https://helion.pl/ksiazki/testowanie-oprogramowania-w-praktyce-studium-przypadkow-karolina-zmitrowicz-adam-roman,e_0wc1.htm#format/e)
 + [Kierunek jakość. Jak unikać błędów w projekcie](https://helion.pl/ksiazki/kierunek-jakosc-jak-unikac-bledow-w-projekcie-aleksandra-kunysz,jaktob.htm#format/d)
++ [Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych.](https://helion.pl/ksiazki/nie-kaz-mi-myslec-o-zyciowym-podejsciu-do-funkcjonalnosci-stron-internetowych-wydanie-iii-steve-krug,niek3v.htm#format/d)
 
 ## **Sites Used for Learning Coding**
 + [w3schools.com](https://www.w3schools.com)
