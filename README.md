@@ -57,6 +57,7 @@ I believe that my attention to detail, accuracy, ease in carrying out tasks & fo
 + [Web Accessibility Auditing](https://alison.com/course/web-accessibility-auditing)
 + [API Testing Foundations](https://www.linkedin.com/learning/api-testing-foundations/using-mocks-stubs-and-fakes-in-api-testing?autoplay=true)
 + [Sieci komputerowe - dla początkujących - budowa i działanie](https://www.udemy.com/course/sieci-komputerowe-kompletny-kurs-budowa-i-dziaanie-sieci)
++ [Dostępność cyfrowa. Kurs video. Wprowadzenie do tematyki i wytycznych WCAG 2.1](https://helion.pl/ksiazki/dostepnosc-cyfrowa-kurs-video-wprowadzenie-do-tematyki-i-wytycznych-wcag-2-1-michal-wiktor-zmijewski-tomasz-pluta-mariusz-bor,vdoscy.htm#format/w)
 
 ## **Technical Books Read**
 + [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
