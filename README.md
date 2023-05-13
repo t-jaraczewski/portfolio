@@ -2,7 +2,7 @@
 ![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester_TomaszJaraczewski.png)
 
 ## **About Me**
-Some stats (as of 13th May 2023):
+**Some stats** (as of 13th May 2023):
 - bugs reproted: ~400;
 - issues reproduced: ~950;
 - test cases submitted: 120
