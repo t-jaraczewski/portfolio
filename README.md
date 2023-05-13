@@ -3,10 +3,10 @@
 
 ## **About Me**
 **Some stats** (as of 13th May 2023):
-- bugs reproted: ~400;
+- bugs reported: ~400;
 - issues reproduced: ~950;
-- test cases submitted: 120
-- products tested: over 100
+- test cases submitted: 120;
+- products tested: over 100;
 
 **My career goals:**
 - mastering manual software testing;
