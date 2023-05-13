@@ -2,17 +2,17 @@
 ![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester_TomaszJaraczewski.png)
 
 ## **About Me**
-I have worked as an English & French teacher for most of my professional career. Thanks to my tech & soft skills and my knowledge of English, I have recently started the process of re-skilling myself.
-
-During my internship and my time at testing on crowd-testing portals, I have participated in over 200 test cycles, reported over 350 bugs, reproduced over 900 issues and submitted 100 test cases (as of 29th March 2023).
-
-I believe that my attention to detail, accuracy, ease in carrying out tasks & focusing on the goal, and my previous non-commercial experience in testing, all these features are a solid basis for working as a full-time manual tester.
+Some stats (as of 13th May 2023):
+- bugs reproted: ~400;
+- issues reproduced: ~950;
+- test cases submitted: 120
+- products tested: over 100
 
 **My career goals:**
 - mastering manual software testing;
 - oriented for further development as an Automation Tester;
-- mastering mobile & API testing;
-- deepening my knowledge and skills in accessibility & usability testing;
+- mastering API testing;
+- deepening my knowledge and skills in accessibility testing;
 - mastering HTML & CSS & Python;
 
 ## **Tech Stack**
