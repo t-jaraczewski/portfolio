@@ -87,6 +87,8 @@
 + [nauczycielwit.pl](http://www.nauczycielwit.pl)
 + [Ola Kunysz](https://olaqnysz.blogspot.com)
 + [Szkoła Testów](https://szkolatestow.online)
++ [Profil Dostępnościowca](http://kubadebski.pl/profil-dostepnosciowca)
+
 
 ## **Groups for Knowledge Gathering**
 + [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610)
