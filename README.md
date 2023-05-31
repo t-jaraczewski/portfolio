@@ -134,7 +134,7 @@
 + **_QA Global Summit 22.2_**:
   + [How to start testing for web accessibility?](https://www.youtube.com/watch?v=AbfZrBa0qKM) _(0:45:15-1:17:00)_
   + [Think You’re Ready for Automation?](https://www.youtube.com/watch?v=AbfZrBa0qKM) _(10:22:21-10:50:04)_
-+ **_Studencki UXathon_** _maj 2023_:
++ **_Studencki UXathon_** _(maj 2023)_:
   + [Inkluzywność w projektowaniu UX: Budowanie doświadczeń dla wszystkich](https://drive.google.com/file/d/1zx_aNJcTBOoLodypV-tTrAQPG-fvxBPI/view?usp=sharing)
   
 ## **YT Channels**
