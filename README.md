@@ -88,6 +88,7 @@
 + [Ola Kunysz](https://olaqnysz.blogspot.com)
 + [Szkoła Testów](https://szkolatestow.online)
 + [Profil Dostępnościowca](http://kubadebski.pl/profil-dostepnosciowca)
++ [Karl Groves - Web Accessibility Viking](https://karlgroves.com)
 
 
 ## **Groups for Knowledge Gathering**
