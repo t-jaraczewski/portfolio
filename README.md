@@ -29,6 +29,7 @@
   + API platform: [Postman](https://www.postman.com)
   + version control system: [Git](https://git-scm.com)
   + code editor: [Visual Studio Code](https://code.visualstudio.com), [Brackets](https://brackets.io)
+  + digital accessibility: [WAVE](https://wave.webaim.org), [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html), [NVDA](https://www.nvda.pl/pobierz), [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker), [PAC](https://pdfua.foundation/en/pdf-accessibility-checker-pac), [axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
   + other: [Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud), [Xray](https://www.getxray.app/), [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid), [Selenium IDE](https://www.selenium.dev/selenium-ide), [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver), [Browserstack](https://www.browserstack.com)
 + Agile (Kanban, Scrum)
 + Testing Skills:
