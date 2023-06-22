@@ -125,6 +125,7 @@
 + [Jak przeprowadzić testy użyteczności?](https://www.youtube.com/watch?v=pOV26RU8lqg&list=PL-63n4xx1Ooe8WLrP3Ae2S-tMK5_8L-b_&index=18)
 + [ChatGPT dla testerów oprogramowania. Tester 2.0](https://www.youtube.com/watch?v=JKRocl4DFJw)
 + [Czy tester jest mądrzejszy niż ChatGPT?](https://www.youtube.com/watch?app=desktop&v=7Lq9sDUC3J0&feature=youtu.be)
++ [Testowanie dostępności cyfrowej na żywo]
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
