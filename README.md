@@ -128,6 +128,7 @@
 + [Czy tester jest mądrzejszy niż ChatGPT?](https://www.youtube.com/watch?app=desktop&v=7Lq9sDUC3J0&feature=youtu.be)
 + [Testowanie dostępności cyfrowej na żywo](https://www.linkedin.com/events/testowaniedost-pno-cicyfrowejna7076453990082691072/comments)
 + [Piotr Źrołka - Czy Twój projekt jest dostępny cyfrowo?](https://www.youtube.com/watch?v=8dHIM68puMU)
++ [Jak są zbudowane web aplikacje?](https://www.youtube.com/watch?v=lHsFpnGG-mc)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
