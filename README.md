@@ -129,6 +129,7 @@
 + [Testowanie dostępności cyfrowej na żywo](https://www.linkedin.com/events/testowaniedost-pno-cicyfrowejna7076453990082691072/comments)
 + [Piotr Źrołka - Czy Twój projekt jest dostępny cyfrowo?](https://www.youtube.com/watch?v=8dHIM68puMU)
 + [Jak są zbudowane web aplikacje?](https://www.youtube.com/watch?v=lHsFpnGG-mc)
++ [Projektowanie inkluzywne w Figma: Tworzenie dostępnych interfejsów](https://www.linkedin.com/events/7082672688195940353/comments)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
