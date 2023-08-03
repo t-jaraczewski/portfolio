@@ -8,14 +8,14 @@
 - functional manual testing: exploratory, regression, smoke, integration tests, retests and e2e tests;
 - non-functional testing: accessibility tests;
 - testing mainly international e-commerce, education platforms, ticket booking systems and identity verification platforms;
-- testing API (Postman) - basic;
-- preparing right now for the ISTQB FL exam, which I plan to take in September or October 2023;
+- testing API (Postman) - *basic*;
+- preparing right now for the *ISTQB FL* exam, which I plan to take in September or October 2023;
 
 **My career goals:**
 - mastering manual software testing;
+- deepening my knowledge and skills in accessibility testing (preparing right now for the *Trusted Tester* exam);
 - oriented for further development as an Automation Tester;
 - mastering API testing;
-- deepening my knowledge and skills in accessibility testing;
 - mastering HTML & CSS;
 
 ## **Tech Stack**
