@@ -2,11 +2,14 @@
 ![Software Tester](https://github.com/t-jaraczewski/portfolio/blob/main/Software%20Tester_TomaszJaraczewski.png)
 
 ## **About Me**
-**Some stats** (as of 13th May 2023):
-- bugs reported: ~400;
-- issues reproduced: ~950;
-- test cases submitted: 120;
-- products tested: over 100;
+**My work experience as a software tester:**
+- collaborating with cross-functional teams including product owners, project managers and developers;
+- testing websites, desktop applications, web and mobile applications (MS Windows, Mac OS, Android OS, iOS);
+- functional manual testing: exploratory, regression, smoke, integration tests, retests and e2e tests;
+- non-functional testing: accessibility tests;
+- testing mainly international e-commerce, education platforms, ticket booking systems and identity verification platforms;
+- testing API (Postman) - basic;
+- preparing right now for the ISTQB FL exam, which I plan to take in September or October 2023;
 
 **My career goals:**
 - mastering manual software testing;
