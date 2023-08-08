@@ -133,6 +133,7 @@
 + [Piotr Źrołka - Czy Twój projekt jest dostępny cyfrowo?](https://www.youtube.com/watch?v=8dHIM68puMU)
 + [Jak są zbudowane web aplikacje?](https://www.youtube.com/watch?v=lHsFpnGG-mc)
 + [Projektowanie inkluzywne w Figma: Tworzenie dostępnych interfejsów](https://www.linkedin.com/events/7082672688195940353/comments)
++ [Jak korzystać z DevTools w testach manualnych i przy automatyzacji?](https://www.youtube.com/watch?v=IHZQzPLuHlI)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
