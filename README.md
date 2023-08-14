@@ -164,6 +164,12 @@
 + [Quality Island](https://www.youtube.com/@quality_island)
 + [Stowarzyszenie Jakości Systemów Informatycznych](https://www.youtube.com/c/sjsiorg)
 
+## **My Testing Experience - Project 1/2023 at _Cherry-IT_ led by Anna Czyrko**
++ bug analysis and reporting;
++ working in SCRUM (daily);
++ using Chrome DevTools (bug searching and analysis);
++ self-selection of the scope of tests.
+
 ## **My Testing Experience - Internship at _TestArmy Group S.A._**
 + identifying and reporting different kinds of issues found on websites and mobile apps by performing manual exploratory and functional testing;
 + analysis of functional and non-functional bugs in order to indicate possible mistakes made during software tests;
