@@ -168,7 +168,7 @@
 + bug analysis and reporting;
 + working in SCRUM (daily);
 + using Chrome DevTools (bug searching and analysis);
-+ self-selection of the scope of tests.
++ self-selection of the scope of tests;
 
 ## **My Testing Experience - Internship at _TestArmy Group S.A._**
 + identifying and reporting different kinds of issues found on websites and mobile apps by performing manual exploratory and functional testing;
