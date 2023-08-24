@@ -82,6 +82,7 @@
 
 ## **Blogs Read**
 + [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
++ [Notatnik testera](https://notatnik.testera.pl/doku.php?id=start)
 + [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 + [testerzy.pl](https://testerzy.pl)
 + [testerka.pl](https://testerka.pl)
