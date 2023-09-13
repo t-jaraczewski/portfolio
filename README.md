@@ -66,6 +66,7 @@
 + [Dostępność cyfrowa. Kurs video. Narzędzie walidacyjne i tworzenie dostępnych treści](https://helion.pl/ksiazki/dostepnosc-cyfrowa-kurs-video-narzedzie-walidacyjne-i-tworzenie-dostepnych-tresci-tomasz-pluta-michal-wiktor-zmijewski,vdocyw.htm#format/w)
 + [Dostępność cyfrowa. Kurs video. Dobre praktyki tworzenia dostępnych stron i poprawne stosowanie atrybutów ARIA](https://helion.pl/kurs/dostepnosc-cyfrowa-kurs-video-dobre-praktyki-tworzenia-dostepnych-stron-i-poprawne-stosowanie-atry-tomasz-pluta-michal-wiktor-zmijewski,vdocys.htm#format/w)
 + [Accessible Documents: Word, PowerPoint, & Acrobat](https://webaim.org/training/docs)
++ [Authoring Accessible Documents](https://training.section508testing.net/enrol/index.php?id=100)
 
 ## **Technical Books Read**
 + [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
