@@ -9,7 +9,7 @@
 - non-functional testing: accessibility tests;
 - testing mainly international e-commerce, education platforms, ticket booking systems and identity verification platforms;
 - testing API (Postman) - *basic*;
-- preparing right now for the *ISTQB FL* exam, which I plan to take in September or October 2023;
+- preparing right now for the *ISTQB FL* exam, which I plan to take at the end of 2023;
 
 **My career goals:**
 - mastering manual software testing;
