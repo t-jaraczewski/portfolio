@@ -219,7 +219,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 + [Bug#4](https://drive.google.com/file/d/1biidEA9lpnKb4xOh_Ril374w_uErlGct/view?usp=sharing)(PL)
 + [Bug#5](https://drive.google.com/file/d/1XRVKZR14RtLdnzOJhK2voN-4HKOUJGEW/view?usp=sharing)(FR)
 + [Bug#6](https://docs.google.com/spreadsheets/d/1Zc_o_mUlbLwkCMccoLGoijdFTdjtjyNf/edit?usp=sharing&ouid=110728704970361578277&rtpof=true&sd=true)(FR)
-+ [List of digital accessibility issues of the website](https://drive.google.com/file/d/1mI-PNAlxLmVNmIaXmjSCOpD4R2P-Bg5j/view?usp=sharing)
++ [List of digital accessibility issues of the website](https://drive.google.com/file/d/1mI-PNAlxLmVNmIaXmjSCOpD4R2P-Bg5j/view?usp=sharing) (PL)
 
 ## **My Test Report Examples**
 + [TR#1](https://drive.google.com/file/d/1HQ2zZ1KiESHwbH9mhuOE5y-C1S_zfxmO/view?usp=sharing) (test report for stakeholders)
