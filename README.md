@@ -225,6 +225,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 + [TR#1](https://drive.google.com/file/d/1HQ2zZ1KiESHwbH9mhuOE5y-C1S_zfxmO/view?usp=sharing) (test report for stakeholders)
 + [TR#2](https://drive.google.com/file/d/1kMCZ3DFYUt5tTb0MF-zxL1I5fEUXXjME/view?usp=sharing) (test report for management)
 + [TR#3](https://drive.google.com/file/d/1YaMeFSR__-PxDoE-7AlWTV_jDRaZCuxK/view?usp=sharing) (preliminary website accessibility audit report)
++ [TR#4](https://drive.google.com/file/d/1xHySwgDE5cVK_1OxyOWEVD0uxLsDcrtw/view?usp=sharing) (digital accessibility report of Poznań's arthouse cinema websites)
 
 ## **My tasks using SQL**
 + [#1 - Movies database](https://drive.google.com/file/d/1BO928Kh0UJBSGglJtGbxb4jmVc5bOuxy/view?usp=sharing)
