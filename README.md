@@ -140,6 +140,7 @@
 + [Jak korzystać z DevTools w testach manualnych i przy automatyzacji?](https://www.youtube.com/watch?v=IHZQzPLuHlI)
 + [Jak rozwijać techniczne umiejętności?](https://www.youtube.com/watch?v=78y6dt_rSxM)
 + [Od juniora do seniora](https://www.youtube.com/watch?v=ePReK1_3znU)
++ [ETR - jak budować teksty łatwe do czytania i rozumienia](https://senseconsulting.pl/)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
