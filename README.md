@@ -156,6 +156,8 @@
   + [Think You’re Ready for Automation?](https://www.youtube.com/watch?v=AbfZrBa0qKM) _(10:22:21-10:50:04)_
 + **_Studencki UXathon_** _(maj 2023)_:
   + [Inkluzywność w projektowaniu UX: Budowanie doświadczeń dla wszystkich](https://drive.google.com/file/d/1zx_aNJcTBOoLodypV-tTrAQPG-fvxBPI/view?usp=sharing)
++ **_Tester Summit 2023_**:
+  + [WCAG - Krok w przód w kierunku bardziej dostępnej sieci](https://www.youtube.com/watch?v=2TJDiefeYGk)
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
