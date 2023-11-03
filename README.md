@@ -158,6 +158,7 @@
   + [Inkluzywność w projektowaniu UX: Budowanie doświadczeń dla wszystkich](https://drive.google.com/file/d/1zx_aNJcTBOoLodypV-tTrAQPG-fvxBPI/view?usp=sharing)
 + **_Tester Summit 2023_**:
   + [WCAG - Krok w przód w kierunku bardziej dostępnej sieci](https://www.youtube.com/watch?v=2TJDiefeYGk)
+  + [Testowanie i AI - wykorzystanie AI w testowaniu](https://www.youtube.com/watch?v=q2K6_j4GRh0)
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
