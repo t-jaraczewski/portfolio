@@ -141,6 +141,7 @@
 + [Jak rozwijać techniczne umiejętności?](https://www.youtube.com/watch?v=78y6dt_rSxM)
 + [Od juniora do seniora](https://www.youtube.com/watch?v=ePReK1_3znU)
 + [ETR - jak budować teksty łatwe do czytania i rozumienia](https://senseconsulting.pl/)
++ [Sprytniejszy, niż AI? Jak zostać Testerem Oprogramowania w świecie sztucznej inteligencji](https://www.youtube.com/watch?v=SN4NuT5Aakc)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
