@@ -140,7 +140,7 @@
 + [Jak korzystać z DevTools w testach manualnych i przy automatyzacji?](https://www.youtube.com/watch?v=IHZQzPLuHlI)
 + [Jak rozwijać techniczne umiejętności?](https://www.youtube.com/watch?v=78y6dt_rSxM)
 + [Od juniora do seniora](https://www.youtube.com/watch?v=ePReK1_3znU)
-+ [ETR - jak budować teksty łatwe do czytania i rozumienia](https://senseconsulting.pl/)
++ [ETR - jak budować teksty łatwe do czytania i rozumienia](https://www.youtube.com/watch?v=79I4CNrhAnM)
 + [Sprytniejszy, niż AI? Jak zostać Testerem Oprogramowania w świecie sztucznej inteligencji](https://www.youtube.com/watch?v=SN4NuT5Aakc)
 + [Jak projektować i testować WCAG 2.2 - pierwsze spojrzenie - cześć pierwsza](https://www.linkedin.com/events/7125211587010772993/comments)
 
