@@ -67,6 +67,7 @@
 + [Dostępność cyfrowa. Kurs video. Dobre praktyki tworzenia dostępnych stron i poprawne stosowanie atrybutów ARIA](https://helion.pl/kurs/dostepnosc-cyfrowa-kurs-video-dobre-praktyki-tworzenia-dostepnych-stron-i-poprawne-stosowanie-atry-tomasz-pluta-michal-wiktor-zmijewski,vdocys.htm#format/w)
 + [Accessible Documents: Word, PowerPoint, & Acrobat](https://webaim.org/training/docs)
 + [Authoring Accessible Documents](https://training.section508testing.net/enrol/index.php?id=100)
++ [Designing with the WCAG 2.2 Guidelines](https://www.linkedin.com/learning/certificates/d6193500dc199858c3375efd77692e80e9e411544ec9b1166707ff81ade0c4c8?trk=share_certificate)
 
 ## **Technical Books Read**
 + [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
