@@ -163,6 +163,8 @@
   + [WCAG - Krok w przód w kierunku bardziej dostępnej sieci](https://www.youtube.com/watch?v=2TJDiefeYGk)
   + [Testowanie i AI - wykorzystanie AI w testowaniu](https://www.youtube.com/watch?v=q2K6_j4GRh0)
   + [Testy akceptacyjne czy warto?](https://www.youtube.com/watch?v=WsQScRTCfog)
++ **_QA Summit 2023_**:
+  + [WCAG - Krok w przód w kierunku bardziej dostępnej sieci](https://www.youtube.com/watch?v=oXpL-bR8DI0)
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
