@@ -146,6 +146,7 @@
 + [Sprytniejszy, niż AI? Jak zostać Testerem Oprogramowania w świecie sztucznej inteligencji](https://www.youtube.com/watch?v=SN4NuT5Aakc)
 + [Jak projektować i testować WCAG 2.2 - pierwsze spojrzenie - cześć pierwsza](https://www.linkedin.com/events/7125211587010772993/comments)
 + [BLIK Bez Barier: Sztuka projektowania dla wszystkich](https://www.linkedin.com/events/blikbezbarier-sztukaprojektowan7147972729038684160/comments/)
++ [Audiodeskrypcja i audiowstęp](https://www.youtube.com/watch?v=vQvmisTURl4)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
