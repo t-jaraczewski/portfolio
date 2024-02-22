@@ -183,6 +183,7 @@
 + [Quality Island](https://www.youtube.com/@quality_island)
 + [Stowarzyszenie Jakości Systemów Informatycznych](https://www.youtube.com/c/sjsiorg)
 + [Warszawska Akademia Dostępności](https://www.youtube.com/@WarszawskaAkademiaDostepnosci)
++ [TYFLOAkademia](https://www.youtube.com/@TYFLOAkademia)
 
 ## **My Testing Experience - Project 1/2023 at _Cherry-IT_ led by Anna Czyrko**
 + bug analysis and reporting;
