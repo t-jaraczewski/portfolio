@@ -102,6 +102,7 @@
 + [Profil Dostępnościowca](http://kubadebski.pl/profil-dostepnosciowca)
 + [Karl Groves - Web Accessibility Viking](https://karlgroves.com)
 + [Kinaole](https://kinaole.co/blog/)
++ [TyfloPodcast](https://tyflopodcast.net/)
 
 
 ## **Groups for Knowledge Gathering**
