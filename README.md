@@ -248,6 +248,7 @@ Beta testing 12 Polish-language and English-language Android apps downloaded fro
 + [TR#3](https://drive.google.com/file/d/1YaMeFSR__-PxDoE-7AlWTV_jDRaZCuxK/view?usp=sharing) (preliminary website accessibility audit report)
 + [TR#4](https://drive.google.com/file/d/1xHySwgDE5cVK_1OxyOWEVD0uxLsDcrtw/view?usp=sharing) (digital accessibility report of Poznań's arthouse cinema websites)
 + [TR#5](https://drive.google.com/file/d/18UMZCuMTLHEyU9tgLJY6kfMVg_66GQO4/view?usp=sharing) (web application accessibility audit report)
++ [TR#6](https://www.youtube.com/watch?v=UtqjURH0vTg) (digital accessibility report of Poznań theatre websites)
 
 ## **My tasks using SQL**
 + [#1 - Movies database](https://drive.google.com/file/d/1BO928Kh0UJBSGglJtGbxb4jmVc5bOuxy/view?usp=sharing)
