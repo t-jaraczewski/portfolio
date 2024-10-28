@@ -189,6 +189,7 @@
 + [Stowarzyszenie Jakości Systemów Informatycznych](https://www.youtube.com/c/sjsiorg)
 + [Warszawska Akademia Dostępności](https://www.youtube.com/@WarszawskaAkademiaDostepnosci)
 + [TYFLOAkademia](https://www.youtube.com/@TYFLOAkademia)
++ [Learn Design](https://www.youtube.com/@LearnDesignPL)
 
 ## **My Testing Experience - Project 1/2023 at _Cherry-IT_ led by Anna Czyrko**
 + bug analysis and reporting;
