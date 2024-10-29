@@ -153,7 +153,7 @@
 + [Testy dostępności i standard WCAG 2.2](https://www.youtube.com/watch?v=CU8YQ_stnjU)
 + [Język inkluzywny - jak mówić, żeby nie wykluczać?](https://www.youtube.com/watch?v=6djNoMU3NlQ)
 + [Język prosty w HR](https://www.youtube.com/watch?v=trLiZQxKhbs)
-+ [Włącz każdego. Przyszłościowe projektowanie dostępnych technologii - webinar z Wojtkiem Kutyłą](https://www.youtube.com/watch?v=OOfCLgTlNaI}
++ [Włącz każdego. Przyszłościowe projektowanie dostępnych technologii - webinar z Wojtkiem Kutyłą](https://www.youtube.com/watch?v=OOfCLgTlNaI)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
