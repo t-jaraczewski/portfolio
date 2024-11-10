@@ -154,6 +154,7 @@
 + [Język inkluzywny - jak mówić, żeby nie wykluczać?](https://www.youtube.com/watch?v=6djNoMU3NlQ)
 + [Język prosty w HR](https://www.youtube.com/watch?v=trLiZQxKhbs)
 + [Włącz każdego. Przyszłościowe projektowanie dostępnych technologii - webinar z Wojtkiem Kutyłą](https://www.youtube.com/watch?v=OOfCLgTlNaI)
++ [Dostępność szansą dla biznesu. Praktyczne wdrażanie Polskiego Aktu o Dostępności i dyrektywy EAA 2024](https://www.youtube.com/watch?v=ho7gmpnXekM)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
