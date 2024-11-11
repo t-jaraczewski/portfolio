@@ -176,6 +176,8 @@
   + [Testy akceptacyjne czy warto?](https://www.youtube.com/watch?v=WsQScRTCfog)
 + **_QA Summit 2023_**:
   + [WCAG - Krok w przód w kierunku bardziej dostępnej sieci](https://www.youtube.com/watch?v=oXpL-bR8DI0)
++ **_Accessibility Meetup Poznań_**:
+  + [Spotkanie nr X: "ODWAŻNI udowadniają, że integracja jest siłą" / "Jak mądrze wspierać osoby z niepełnosprawnością"](https://drive.google.com/file/d/1XQUGqN7hoVIBk-rqaPg8ZxzzA7SQS1fm/view?usp=sharing)
   
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
