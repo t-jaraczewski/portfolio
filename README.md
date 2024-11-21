@@ -69,7 +69,6 @@
 + [Authoring Accessible Documents](https://training.section508testing.net/enrol/index.php?id=100)
 + [Designing with the WCAG 2.2 Guidelines](https://www.linkedin.com/learning/certificates/d6193500dc199858c3375efd77692e80e9e411544ec9b1166707ff81ade0c4c8?trk=share_certificate)
 + [Accessible Technology Design](https://accessibleeucentre.criteria-campus.com/)
-+ [Jak upraszczać pisma urzędowe za pomocą AI](https://drive.google.com/file/d/1Gjw5ju1sjYvmvc8FdMDF2OzMSDn8LzNv/view?usp=sharing)
 
 ## **Technical Books Read**
 + [Zawód tester. Od decyzji do zdobycia doświadczenia](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
@@ -157,6 +156,7 @@
 + [Włącz każdego. Przyszłościowe projektowanie dostępnych technologii - webinar z Wojtkiem Kutyłą](https://www.youtube.com/watch?v=OOfCLgTlNaI)
 + [Dostępność szansą dla biznesu. Praktyczne wdrażanie Polskiego Aktu o Dostępności i dyrektywy EAA 2024](https://www.youtube.com/watch?v=ho7gmpnXekM)
 + [Dwa standardy upraszczania: prosty język a język łatwy (ETR)](https://drive.google.com/file/d/1k5E60cvEpLgqP0kjJAh5QVhgcfEkgIDm/view?usp=sharing)
++ [Jak upraszczać pisma urzędowe za pomocą AI](https://drive.google.com/file/d/1Gjw5ju1sjYvmvc8FdMDF2OzMSDn8LzNv/view?usp=sharing)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
