@@ -157,6 +157,7 @@
 + [Dostępność szansą dla biznesu. Praktyczne wdrażanie Polskiego Aktu o Dostępności i dyrektywy EAA 2024](https://www.youtube.com/watch?v=ho7gmpnXekM)
 + [Dwa standardy upraszczania: prosty język a język łatwy (ETR)](https://drive.google.com/file/d/1k5E60cvEpLgqP0kjJAh5QVhgcfEkgIDm/view?usp=sharing)
 + [Jak upraszczać pisma urzędowe za pomocą AI](https://drive.google.com/file/d/1Gjw5ju1sjYvmvc8FdMDF2OzMSDn8LzNv/view?usp=sharing)
++ [Dostępność cyfrowa - wyzwania, obowiązki i szanse dla Twojego biznesu](https://www.youtube.com/watch?v=PvlKn-3_TQs)
 
 ## **Conferences & Meetups**
 + **_Tydzień Programisty 2022_**:
